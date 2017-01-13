@@ -1,9 +1,8 @@
-PROJECT TITLE: Operation Blob
-PURPOSE OF PROJECT: My Fall Semester Final
-VERSION or DATE: December 2014
-HOW TO START THIS PROJECT: Run from BlueJ
-AUTHORS: Abby Lambert
-USER INSTRUCTIONS: 
+# Operation Blob
+## My Fall Semester Final
+© Abby Lambert 2014
+Runs in BlueJ
+***
 
 You have been chosen to take care of a blob, a fun, playful creature who comes from a mystical land.  You take care of your blob by typing certain commands...
 
